@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "364005022803",
+    "firebase_url": "https://auto-lms.firebaseio.com",
+    "project_id": "auto-lms",
+    "storage_bucket": "auto-lms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364005022803:android:8c8758f4fe02ade5",
+        "android_client_info": {
+          "package_name": "tiredcoder.com.htmlunittest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364005022803-t0egl9205eh5qlb0voo4ntooj27b9q6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW3zC29nPqAAnnkMmIneeEOCqrjNirH54"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
